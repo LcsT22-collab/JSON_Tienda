@@ -1,0 +1,2 @@
+//npx server . para ejecutar de raiz
+// caso contrario no aparezca en la web tengo q cambiar la ruta en index.html y tambien en android studio

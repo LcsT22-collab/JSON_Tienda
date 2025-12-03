@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 14 Pro",
+      "price": 1299.99,
+      "description": "El último iPhone con Dynamic Island y cámara de 48MP",
+      "category": "Smartphones",
+      "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400",
+      "stock": 15
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S23",
+      "price": 899.99,
+      "description": "Potente smartphone Android con cámara profesional",
+      "category": "Smartphones",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "stock": 20
+    },
+    {
+      "id": 3,
+      "name": "MacBook Air M2",
+      "price": 1499.99,
+      "description": "Laptop ultradelgada con chip M2 de Apple",
+      "category": "Laptops",
+      "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=400",
+      "stock": 8
+    },
+    {
+      "id": 4,
+      "name": "iPad Pro 12.9",
+      "price": 1099.99,
+      "description": "Tablet profesional con pantalla Liquid Retina XDR",
+      "category": "Tablets",
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400",
+      "stock": 12
+    },
+    {
+      "id": 5,
+      "name": "AirPods Pro",
+      "price": 249.99,
+      "description": "Audífonos inalámbricos con cancelación activa de ruido",
+      "category": "Audio",
+      "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=400",
+      "stock": 25
+    },
+    {
+      "id": 6,
+      "name": "Apple Watch Series 8",
+      "price": 399.99,
+      "description": "Smartwatch con seguimiento avanzado de salud",
+      "category": "Wearables",
+      "image": "https://images.unsplash.com/photo-1579586337278-3f436c8e9394?w=400",
+      "stock": 18
+    },
+    {
+      "id": 7,
+      "name": "PlayStation 5",
+      "price": 499.99,
+      "description": "Consola de videojuegos de última generación",
+      "category": "Gaming",
+      "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=400",
+      "stock": 10
+    },
+    {
+      "id": 8,
+      "name": "Nintendo Switch OLED",
+      "price": 349.99,
+      "description": "Consola híbrida con pantalla OLED mejorada",
+      "category": "Gaming",
+      "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=400",
+      "stock": 14
+    }
+  ]
+}
+
