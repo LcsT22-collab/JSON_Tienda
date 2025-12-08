@@ -3,750 +3,749 @@
     {
       "id": 1,
       "name": "iPhone 15 Pro Max",
-      "price": 1399.99,
-      "description": "Smartphone premium con chip A17 Pro, cámara triple de 48MP, Dynamic Island y diseño en titanio. Pantalla Super Retina XDR de 6.7 pulgadas con ProMotion de 120Hz.",
+      "price": 1299.99,
+      "description": "El celular más avanzado de Apple. Tiene una cámara profesional de tres lentes, una pantalla súper nítida de 6.7\" y un cuerpo muy resistente de titanio.",
       "category": "Smartphones",
       "image": "https://media.falabella.com/falabellaPE/20040002_01/w=800,h=800,fit=pad",
-      "stock": 18
+      "stock": 25
     },
     {
       "id": 2,
       "name": "Samsung Galaxy S24 Ultra",
-      "price": 1299.99,
-      "description": "Teléfono Android flagship con pantalla Dynamic AMOLED 2X de 6.8\", procesador Snapdragon 8 Gen 3, cámara de 200MP y S-Pen integrado.",
+      "price": 1199.99,
+      "description": "El mejor celular Android. Pantalla grande de 6.8\", cámara ultra potente de 200MP y un lápiz óptico S-Pen para escribir y dibujar.",
       "category": "Smartphones",
       "image": "https://http2.mlstatic.com/D_NQ_NP_915824-MLA91652794188_092025-O.webp",
-      "stock": 15
+      "stock": 22
     },
     {
       "id": 3,
       "name": "Xiaomi Redmi Note 13 Pro+",
-      "price": 499.99,
-      "description": "Smartphone mid-range con pantalla AMOLED de 120Hz, cámara de 200MP con OIS, carga rápida de 120W y procesador MediaTek Dimensity 7200 Ultra.",
+      "price": 549.99,
+      "description": "Un celular potente de excelente valor. Gran pantalla AMOLED, cámara de 200MP y se carga muy rápido (120W) para que nunca te quedes sin batería.",
       "category": "Smartphones",
       "image": "https://http2.mlstatic.com/D_NQ_NP_748621-MLA76569863127_052024-O.webp",
-      "stock": 25
+      "stock": 35
     },
     {
       "id": 4,
       "name": "Motorola Edge 40 Neo",
       "price": 399.99,
-      "description": "Diseño elegante con pantalla pOLED de 144Hz, cámara principal de 50MP, carga rápida de 68W y resistencia al agua IP68.",
+      "description": "Un celular con diseño elegante, muy rápido (144Hz) y resistente al agua. Ideal para el día a día con una buena cámara de 50MP.",
       "category": "Smartphones",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37cyJrxDBGW5zKGPva3Zn-hEMneaYuTLiVg&s",
-      "stock": 20
+      "stock": 30
     },
     {
       "id": 5,
       "name": "Honor Magic 5 Pro",
-      "price": 899.99,
-      "description": "Triple cámara de 50MP cada una, pantalla LTPO OLED de 6.81\", chip Snapdragon 8 Gen 2 y batería de 5100mAh con carga inalámbrica.",
+      "price": 849.99,
+      "description": "Celular de alta gama con una triple cámara excelente de 50MP, pantalla nítida y una batería que dura mucho tiempo.",
       "category": "Smartphones",
       "image": "https://pe.celulares.com/fotos/hihonor-magic5-pro-97053-g-alt.jpg",
-      "stock": 12
+      "stock": 20
     },
     {
       "id": 6,
       "name": "MacBook Pro M3 Max",
-      "price": 3499.99,
-      "description": "Laptop profesional con chip Apple M3 Max, pantalla Liquid Retina XDR de 16.2\", 64GB RAM y 1TB SSD. Ideal para creativos y desarrolladores.",
+      "price": 3199.99,
+      "description": "Laptop profesional de Apple. Extremadamente potente para trabajos pesados (edición, diseño, programación), con una pantalla impresionante de 16.2\".",
       "category": "Laptops",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Wb0UrOBadnuJnKkOr5Zu3NhkRWc0NlbCaQ&s",
-      "stock": 8
+      "stock": 15
     },
     {
       "id": 7,
       "name": "Dell XPS 15 9530",
-      "price": 2299.99,
-      "description": "Laptop premium con pantalla OLED 3.5K de 15.6\", Intel Core i9-13900H, NVIDIA RTX 4070, 32GB RAM y 1TB SSD.",
+      "price": 2199.99,
+      "description": "Laptop premium con una pantalla OLED 3.5K increíble para ver todo con máxima calidad. Muy potente para trabajar o jugar.",
       "category": "Laptops",
       "image": "https://sm.pcmag.com/pcmag_uk/review/d/dell-xps-1/dell-xps-15-9530-2023_uxjn.jpg",
-      "stock": 10
+      "stock": 17
     },
     {
       "id": 8,
       "name": "HP Spectre x360 14",
-      "price": 1599.99,
-      "description": "Convertible 2-en-1 con pantalla OLED táctil de 14\", Intel Core i7-1355U, 16GB RAM, 1TB SSD y diseño premium en azul nocturno.",
+      "price": 1499.99,
+      "description": "Laptop 2-en-1 que se convierte en tablet. Tiene una pantalla táctil OLED de 14\" y un diseño muy elegante para el trabajo.",
       "category": "Laptops",
       "image": "https://pe-media.hptiendaenlinea.com/catalog/product/3/0/30A09LA-1_T1679063173.png",
-      "stock": 14
+      "stock": 22
     },
     {
       "id": 9,
       "name": "Lenovo Legion Pro 7i",
-      "price": 2499.99,
-      "description": "Laptop gamer con pantalla IPS de 16\" 240Hz, Intel Core i9-13900HX, NVIDIA RTX 4090, 32GB RAM DDR5 y sistema de refrigeración avanzado.",
+      "price": 2399.99,
+      "description": "Laptop gamer de alto rendimiento con una tarjeta gráfica muy poderosa (RTX 4090). Pantalla de 16\" súper rápida para los juegos más exigentes.",
       "category": "Laptops",
       "image": "https://p2-ofp.static.pub/fes/cms/2022/12/15/iiv0yj4xis18fq2p5zgbcubx18lggs470202.png",
-      "stock": 6
+      "stock": 15
     },
     {
       "id": 10,
       "name": "Asus Zenbook 14 OLED",
-      "price": 1299.99,
-      "description": "Ultrabook ligero con pantalla OLED 2.8K de 14\", AMD Ryzen 7 7730U, 16GB RAM, 512GB SSD y más de 15 horas de batería.",
+      "price": 1199.99,
+      "description": "Laptop ultraligera y delgada. Pantalla OLED nítida de 14\" y batería que dura más de 15 horas, perfecta para llevar a todas partes.",
       "category": "Laptops",
       "image": "https://dlcdnwebimgs.asus.com/gain/26b2a6c1-fa0f-4de9-87e7-3cbde6b4fd77/",
-      "stock": 18
+      "stock": 25
     },
     {
       "id": 11,
       "name": "LG OLED C3 65\"",
-      "price": 1899.99,
-      "description": "TV OLED 4K con procesador α9 Gen6, Dolby Vision IQ, Dolby Atmos, 120Hz nativo y compatibilidad con NVIDIA G-SYNC para gaming.",
+      "price": 1799.99,
+      "description": "Televisor OLED 4K de 65 pulgadas. Ofrece imágenes perfectas, colores vibrantes y es excelente para películas y videojuegos, con sonido envolvente.",
       "category": "Televisores",
       "image": "https://home.ripley.com.pe/Attachment/WOP_5/2018313538620/2018313538620_2.jpg",
-      "stock": 9
+      "stock": 16
     },
     {
       "id": 12,
       "name": "Samsung QLED QN90C 75\"",
-      "price": 2299.99,
-      "description": "TV Neo QLED 4K con pantalla Mini-LED, Quantum HDR 32x, Object Tracking Sound Pro y panel de 144Hz para gaming competitivo.",
+      "price": 2199.99,
+      "description": "Televisor Neo QLED 4K de 75 pulgadas. Brillo espectacular y colores intensos. Su gran tamaño y velocidad lo hacen ideal para el cine en casa y el gaming.",
       "category": "Televisores",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZUYixlCfsaQIMay1M_ye4HwkNUMsoM4_DYQ&s",
-      "stock": 7
+      "stock": 14
     },
     {
       "id": 13,
       "name": "Sony Bravia XR A80L 55\"",
-      "price": 1599.99,
-      "description": "TV OLED con Cognitive Processor XR, Acoustic Surface Audio+, Google TV integrado y calibración profesional para colores precisos.",
+      "price": 1499.99,
+      "description": "Televisor OLED de 55 pulgadas. Colores muy precisos y un sonido que sale directamente de la pantalla. Usa Google TV para acceder a todas tus apps fácilmente.",
       "category": "Televisores",
       "image": "https://hiraoka.com.pe/media/catalog/product/g/e/genba_k-55xr80_01_main_dealers_1000x1000px.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=560&width=700&canvas=700:560",
-      "stock": 11
+      "stock": 18
     },
     {
       "id": 14,
       "name": "PlayStation 5",
       "price": 499.99,
-      "description": "Consola de nueva generación con GPU RDNA 2 de 10.28 TFLOPS, SSD 1TB, DualSense y lector de Blu-ray 4K UHD.",
+      "description": "Consola de videojuegos de última generación. Carga juegos casi al instante y ofrece gráficos impresionantes en 4K. Incluye el control avanzado DualSense.",
       "category": "Gaming",
       "image": "https://rimage.ripley.com.pe/home.ripley/Attachment/WOP/1/2031346623958/image1-2031346623958.webp",
-      "stock": 15
+      "stock": 25
     },
     {
       "id": 15,
       "name": "Xbox Series X",
       "price": 499.99,
-      "description": "Consola más poderosa con 12 TFLOPS, GPU RDNA 2, SSD 1TB, retrocompatibilidad y Game Pass incluido por 3 meses.",
+      "description": "Consola de videojuegos más potente de Xbox. Juega en 4K con la máxima velocidad y tienes acceso a cientos de juegos con 3 meses de Game Pass.",
       "category": "Gaming",
       "image": "https://http2.mlstatic.com/D_Q_NP_729356-MLA99452401750_112025-O.webp",
-      "stock": 12
+      "stock": 20
     },
     {
       "id": 16,
       "name": "Nintendo Switch OLED",
       "price": 349.99,
-      "description": "Consola híbrida con pantalla OLED de 7\", 64GB almacenamiento, dock con puerto LAN y mejor audio para juegos portátiles.",
+      "description": "Consola híbrida para jugar en tu TV o llevarla contigo. Pantalla OLED vibrante para un mejor juego portátil y un mejor sonido.",
       "category": "Gaming",
       "image": "https://media.falabella.com/falabellaPE/116992404_01/w=800,h=800,fit=pad",
-      "stock": 20
+      "stock": 30
     },
     {
       "id": 17,
       "name": "Steam Deck OLED 1TB",
-      "price": 649.99,
-      "description": "Handheld gaming PC con pantalla HDR OLED de 7.4\", APU AMD Zen 2, 16GB RAM y almacenamiento NVMe de 1TB.",
+      "price": 699.99,
+      "description": "Computadora de mano para jugar tus juegos de Steam en cualquier lugar. Pantalla OLED de alta calidad y 1TB de almacenamiento.",
       "category": "Gaming",
       "image": "https://http2.mlstatic.com/D_NQ_NP_981468-MPE76157708738_052024-O.webp",
-      "stock": 8
+      "stock": 15
     },
     {
       "id": 18,
       "name": "Mando DualSense Edge",
-      "price": 199.99,
-      "description": "Control premium para PS5 con gatillos adaptables, botones traseros intercambiables, sticks modulares y cable braided USB-C.",
+      "price": 179.99,
+      "description": "Control profesional para PlayStation 5. Totalmente personalizable con botones extra y gatillos ajustables para ventaja competitiva.",
       "category": "Gaming",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ihASQzhu8dh2ZzTozepjhjSzL6UcPI_veA&s",
-      "stock": 22
+      "stock": 30
     },
     {
       "id": 19,
       "name": "Xbox Elite Series 2",
-      "price": 179.99,
-      "description": "Mando profesional con gatillos ajustables, 4 paletas traseras, sticks intercambiables y carga inalámbrica con case incluido.",
+      "price": 159.99,
+      "description": "Control profesional para Xbox. Ajusta los gatillos y usa paletas traseras para mejorar tu juego. Incluye un estuche y base de carga.",
       "category": "Gaming",
-      "image": "https://m.media-amazon.com/images/I/61tncw0i36L._SL1500_.jpg",
-      "stock": 18
+      "image": "https://m.media-amazon.com/images/I/61tncw0i36L.SL1500.jpg",
+      "stock": 25
     },
     {
       "id": 20,
       "name": "NVIDIA RTX 4090",
-      "price": 1699.99,
-      "description": "Tarjeta gráfica flagship con 24GB GDDR6X, arquitectura Ada Lovelace, DLSS 3 y rendimiento 4K para gaming y creación.",
+      "price": 1599.99,
+      "description": "Tarjeta de video más potente para PC. Te permite jugar en 4K y usar aplicaciones de diseño o edición al máximo rendimiento.",
       "category": "Componentes PC",
-      "image": "https://m.media-amazon.com/images/I/81KR0fO8WgL._AC_SL1500_.jpg",
-      "stock": 5
+      "image": "https://m.media-amazon.com/images/I/81KR0fO8WgL.AC_SL1500.jpg",
+      "stock": 12
     },
     {
       "id": 21,
       "name": "AMD Ryzen 9 7950X3D",
-      "price": 699.99,
-      "description": "Procesador gaming con 16 núcleos, 32 hilos, tecnología 3D V-Cache de 128MB y arquitectura Zen 4 para máximo rendimiento.",
+      "price": 649.99,
+      "description": "El mejor procesador de AMD para juegos. Ofrece el máximo rendimiento para que todo corra muy rápido en tu PC.",
       "category": "Componentes PC",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmJsVsK8D3PVmSvVQ1KS94sSp7e8FvgiOxLA&s",
-      "stock": 14
+      "stock": 20
     },
     {
       "id": 22,
       "name": "Corsair Dominator Platinum 32GB",
-      "price": 149.99,
-      "description": "Memoria RAM DDR5 6000MHz CL30 con iluminación RGB, disipador de aluminio y perfiles XMP 3.0 para overclocking.",
+      "price": 179.99,
+      "description": "Memoria RAM de alta velocidad (32GB) para PC. Hace que tu computadora sea súper rápida y viene con luces RGB para un estilo genial.",
       "category": "Componentes PC",
       "image": "https://images-cdn.ubuy.co.in/633b6ac0dfdd1872832a79d4-corsair-dominator-platinum-rgb-128gb.jpg",
-      "stock": 30
+      "stock": 40
     },
     {
       "id": 23,
       "name": "Samsung 990 Pro 2TB",
-      "price": 179.99,
-      "description": "SSD NVMe PCIe 4.0 con velocidades de lectura 7450MB/s, escritura 6900MB/s y disipador incluido para gaming.",
+      "price": 199.99,
+      "description": "Disco duro SSD de 2TB de máxima velocidad. Carga tu sistema operativo y tus juegos en segundos. Incluye disipador de calor.",
       "category": "Componentes PC",
       "image": "https://oechsle.vteximg.com.br/arquivos/ids/19590757/imageUrl_1.jpg?v=638662344509400000",
-      "stock": 25
+      "stock": 35
     },
     {
       "id": 24,
       "name": "ASUS ROG Swift PG27AQDM",
-      "price": 999.99,
-      "description": "Monitor gaming OLED 27\" 1440p, 240Hz, 0.03ms response time, G-SYNC compatible y calibración de fábrica para colores precisos.",
+      "price": 949.99,
+      "description": "Monitor gamer OLED de 27 pulgadas. Imágenes con colores perfectos, movimiento ultra fluido (240Hz) y la respuesta más rápida para juegos.",
       "category": "Monitores",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSo-o9Sf6ETOpKgLBr8H_F1xa7xnENFI_bkQ&s",
-      "stock": 8
+      "stock": 15
     },
     {
       "id": 25,
       "name": "LG UltraGear 45GR95QE",
-      "price": 1699.99,
-      "description": "Monitor ultrawide OLED curvado 45\" 240Hz, resolución 3440x1440, 0.03ms GTG y compatibilidad con NVIDIA G-SYNC.",
+      "price": 1599.99,
+      "description": "Monitor Ultrawide OLED curvo de 45 pulgadas. El más inmersivo para juegos. Pantalla enorme con curvatura que te mete en la acción, a una velocidad increíble (240Hz).",
       "category": "Monitores",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ6sL3gYMkr9tOVPipsckL-kdweA0tQSWTIw&s",
-      "stock": 6
+      "stock": 12
     },
     {
       "id": 26,
       "name": "Dell UltraSharp U3223QE",
-      "price": 1199.99,
-      "description": "Monitor profesional 4K 32\" IPS Black, USB-C con 90W PD, KVM integrado y cobertura 98% DCI-P3 para trabajo creativo.",
+      "price": 1099.99,
+      "description": "Monitor profesional 4K de 32 pulgadas. Colores súper precisos, ideal para diseño y edición. Se puede conectar con un solo cable USB-C (con carga para laptop).",
       "category": "Monitores",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCLILDn2TwiZE9c8g_UMXV1FRScsaQ69GqNg&s",
-      "stock": 12
+      "stock": 20
     },
     {
       "id": 27,
       "name": "Samsung Odyssey Neo G9",
-      "price": 2299.99,
-      "description": "Monitor super ultrawide 49\" Mini-LED, 5120x1440, 240Hz, Quantum HDR 2000 y curva 1000R para inmersión total.",
+      "price": 2099.99,
+      "description": "Monitor Super Ultrawide curvo de 49 pulgadas. Sentirás que tienes dos monitores gigantes en uno. Ideal para simulación, trabajo y juegos.",
       "category": "Monitores",
       "image": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/3278/PMP20000439859/full_image-1.jpeg",
-      "stock": 4
+      "stock": 10
     },
     {
       "id": 28,
       "name": "Apple iPad Pro 12.9\" M2",
-      "price": 1299.99,
-      "description": "Tablet profesional con chip M2, pantalla Liquid Retina XDR mini-LED, compatibilidad con Apple Pencil 2 y Magic Keyboard.",
+      "price": 1099.99,
+      "description": "Tablet profesional con el chip M2 súper potente. Pantalla grande de 12.9\" perfecta para dibujar, diseñar y reemplazar una laptop.",
       "category": "Tablets",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBPB8bktUyJWx9a68ssHKdsga_7g1ldXmzDw&s",
-      "stock": 16
+      "stock": 25
     },
     {
       "id": 29,
       "name": "Samsung Galaxy Tab S9 Ultra",
-      "price": 1199.99,
-      "description": "Tablet Android con pantalla Dynamic AMOLED 2X de 14.6\", S-Pen incluido, Snapdragon 8 Gen 2 y resistencia al agua IP68.",
+      "price": 999.99,
+      "description": "Tablet Android más grande (14.6\"). Incluye el lápiz S-Pen y es resistente al agua. Excelente para entretenimiento y productividad.",
       "category": "Tablets",
       "image": "https://promart.vteximg.com.br/arquivos/ids/7419325/image-c5c66a8eecb94c949ad15e9eea517e19.jpg?v=638272736660130000",
-      "stock": 11
+      "stock": 20
     },
     {
       "id": 30,
       "name": "Microsoft Surface Pro 9",
-      "price": 1399.99,
-      "description": "Tablet convertible con procesador Intel Core i7, pantalla PixelSense de 13\", 16GB RAM y teclado Surface Pro Signature incluido.",
+      "price": 1299.99,
+      "description": "Tablet que funciona como laptop. Ideal para llevar a todas partes, con una pantalla de 13\" y teclado Signature incluido.",
       "category": "Tablets",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPR1UJhEqOgFcR1XcJ0X_3U8FHylMGDpSoaA&s",
-      "stock": 9
+      "stock": 18
     },
     {
       "id": 31,
       "name": "Sony WH-1000XM5",
-      "price": 399.99,
-      "description": "Audífonos over-ear con cancelación de ruido líder, 30 horas de batería, procesador V1 integrado y calidad de sonido Hi-Res.",
+      "price": 349.99,
+      "description": "Audífonos de diadema con la mejor cancelación de ruido. Ideales para viajar o trabajar sin distracciones. Batería que dura hasta 30 horas.",
       "category": "Audio",
       "image": "https://www.sony.com.pe/image/6145c1d32e6ac8e63a46c912dc33c5bb?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF",
-      "stock": 24
+      "stock": 35
     },
     {
       "id": 32,
       "name": "Apple AirPods Pro 2",
-      "price": 249.99,
-      "description": "Audífonos inalámbricos con cancelación activa de ruido mejorada, chip H2, audio espacial personalizado y estuche con MagSafe.",
+      "price": 219.99,
+      "description": "Audífonos inalámbricos para Apple. Cancelan el ruido, tienen sonido envolvente y el estuche se carga con MagSafe.",
       "category": "Audio",
       "image": "https://pe.tiendasishop.com/cdn/shop/files/IMG-14912675.jpg?v=1727286009&width=1000",
-      "stock": 30
+      "stock": 40
     },
     {
       "id": 33,
       "name": "Bose QuietComfort Ultra",
-      "price": 429.99,
-      "description": "Audífonos con modo Immersive Audio, cancelación de ruido adaptativa, 24 horas de batería y diseño premium ultraligero.",
+      "price": 399.99,
+      "description": "Audífonos con audio inmersivo y cancelación de ruido. Ligeros y cómodos para usar todo el día.",
       "category": "Audio",
       "image": "https://pe.tiendasishop.com/cdn/shop/files/bose-quietcomfort-ultra-earbuds-black-01.webp?v=1729888248",
-      "stock": 18
+      "stock": 28
     },
     {
       "id": 34,
       "name": "Sonos Era 300",
       "price": 449.99,
-      "description": "Altavoz inteligente con sonido espacial Dolby Atmos, seis drivers direccionales, WiFi 6 y compatibilidad con Alexa y Google Assistant.",
+      "description": "Parlante inteligente con sonido 360° de alta calidad (Dolby Atmos). Puedes controlarlo con tu voz (Alexa o Google).",
       "category": "Audio",
       "image": "https://electroacustica.pe/wp-content/uploads/2023/04/parlante-sonos-era-300-negro-02.jpg",
-      "stock": 14
+      "stock": 22
     },
     {
       "id": 35,
       "name": "JBL Flip 6",
-      "price": 129.99,
-      "description": "Parlante portátil resistente IP67, sonido stereo PartyBoost, 12 horas de batería y diseño robusto para uso outdoor.",
+      "price": 119.99,
+      "description": "Parlante portátil resistente al agua y al polvo. Batería de 12 horas, perfecto para fiestas y exteriores.",
       "category": "Audio",
       "image": "https://coolboxpe.vtexassets.com/arquivos/ids/329445/Parlante-JBL-Flip-6-negro_1.jpg?v=638361820226670000",
-      "stock": 35
+      "stock": 45
     },
     {
       "id": 36,
       "name": "Logitech MX Keys S",
-      "price": 119.99,
-      "description": "Teclado inalámbrico premium con retroiluminación inteligente, conexión multi-dispositivo, teclas esculpidas y hasta 10 días de batería.",
+      "price": 109.99,
+      "description": "Teclado inalámbrico cómodo y premium para trabajar. Se ilumina de forma inteligente y se conecta a varios dispositivos a la vez.",
       "category": "Periféricos",
       "image": "https://media.falabella.com/falabellaPE/114060147_01/w=800,h=800,fit=pad",
-      "stock": 28
+      "stock": 38
     },
     {
       "id": 37,
       "name": "Logitech MX Master 3S",
-      "price": 99.99,
-      "description": "Ratón ergonómico con sensor Darkfield 8K DPI, rueda MagSpeed, botones silenciosos y conexión USB-C para carga rápida.",
+      "price": 89.99,
+      "description": "Mouse ergonómico de precisión para profesionales. Rueda de desplazamiento súper rápida y botones silenciosos.",
       "category": "Periféricos",
       "image": "https://media.falabella.com/falabellaPE/119550963_01/w=1500,h=1500,fit=pad",
-      "stock": 32
+      "stock": 42
     },
     {
       "id": 38,
       "name": "Razer BlackWidow V4 Pro",
-      "price": 229.99,
-      "description": "Teclado mecánico gaming con switches Razer Green, iluminación Chroma RGB per-key, reposamuñecas magnético y control multimedia.",
+      "price": 199.99,
+      "description": "Teclado mecánico gamer con luces RGB personalizables. Respuesta rápida para jugar y un cómodo reposamuñecas.",
       "category": "Periféricos",
       "image": "https://http2.mlstatic.com/D_NQ_NP_743679-MLA100064835719_122025-O.webp",
-      "stock": 16
+      "stock": 26
     },
     {
       "id": 39,
       "name": "SteelSeries Arctis Nova Pro",
-      "price": 349.99,
-      "description": "Headset gaming con sonido Hi-Res, cancelación de ruido activa, micrófono retráctil ClearCast y base DAC con GameDAC.",
+      "price": 299.99,
+      "description": "Audífonos gamer de alta fidelidad con cancelación de ruido. Micrófono muy claro y una base de control para ajustar el audio.",
       "category": "Periféricos",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCcqPUBfkaj0Vt5jEx8vfsuaRyRwgABxTdQQ&s",
-      "stock": 12
+      "stock": 20
     },
     {
       "id": 40,
       "name": "Samsung Galaxy Watch 6 Classic",
-      "price": 399.99,
-      "description": "Smartwatch con bisel rotatorio físico, pantalla Super AMOLED, medición avanzada de salud y batería de 40 horas.",
+      "price": 349.99,
+      "description": "Reloj inteligente Samsung con un bisel que gira para facilitar el control. Mide tu salud, el ejercicio y tiene una batería de larga duración.",
       "category": "Wearables",
       "image": "https://oechsle.vteximg.com.br/arquivos/ids/15732769-1000-1000/image-2f1df6c782b746308fe8176951e72312.jpg?v=638280539962300000",
-      "stock": 20
+      "stock": 30
     },
     {
       "id": 41,
       "name": "Apple Watch Series 9",
-      "price": 429.99,
-      "description": "Smartwatch con chip S9, pantalla Always-On Retina, medición de oxígeno en sangre y función Double Tap para control sin tocar.",
+      "price": 399.99,
+      "description": "Reloj inteligente Apple con pantalla siempre encendida. Mide tu salud y puedes controlarlo con solo tocar dos veces tus dedos.",
       "category": "Wearables",
       "image": "https://http2.mlstatic.com/D_NQ_NP_2X_758022-MPE93863541916_102025-T-apple-watch-series-9-gps-41mm-sport-band-talla-sm.webp",
-      "stock": 25
+      "stock": 35
     },
     {
       "id": 42,
       "name": "Garmin Fenix 7X Pro",
-      "price": 899.99,
-      "description": "Reloj deportivo con pantalla solar, mapas topográficos, sensores avanzados de rendimiento y batería de hasta 37 días.",
+      "price": 799.99,
+      "description": "Reloj deportivo para atletas y aventuras. Se carga con el sol, tiene mapas y la batería dura más de un mes.",
       "category": "Wearables",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF2S9LI44-_jh73HV3b2LlZFyD2t8sPbpg1w&s",
-      "stock": 8
+      "stock": 15
     },
     {
       "id": 43,
       "name": "Google Pixel Watch 2",
-      "price": 349.99,
-      "description": "Smartwatch con Wear OS, chip Snapdragon W5, seguimiento Fitbit integrado y diseño elegante con corona táctil.",
+      "price": 299.99,
+      "description": "Reloj inteligente de Google con Fitbit integrado para seguimiento de salud y ejercicio. Diseño redondo y elegante.",
       "category": "Wearables",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHPA9iXckmBQstLg7YAMnqmo7wm6j7doakbA&s",
-      "stock": 18
+      "stock": 28
     },
     {
       "id": 44,
       "name": "Meta Quest 3 512GB",
-      "price": 649.99,
-      "description": "VR headset mixed reality con pancake lenses, procesador Snapdragon XR2 Gen 2, controladores Touch Plus y passthrough en color.",
+      "price": 599.99,
+      "description": "Visor de realidad virtual/mixta más potente de Meta. Juega y trabaja en mundos virtuales con imágenes nítidas y a todo color.",
       "category": "Realidad Virtual",
       "image": "https://coolboxpe.vtexassets.com/arquivos/ids/402067/XhdrjxYz_-QUEST-3-CNT.jpg?v=638720390422370000",
-      "stock": 14
+      "stock": 25
     },
     {
       "id": 45,
       "name": "Sony PlayStation VR2",
-      "price": 549.99,
-      "description": "Headset VR para PS5 con pantalla OLED 4K HDR, eye tracking, feedback háptico y controladores Sense con retroalimentación adaptativa.",
+      "price": 499.99,
+      "description": "Visor de realidad virtual exclusivo para PlayStation 5. Ofrece juegos en 4K y controles con vibración inmersiva.",
       "category": "Realidad Virtual",
       "image": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/1736/PMP00003042808/full_image-1.jpeg",
-      "stock": 9
+      "stock": 18
     },
     {
       "id": 46,
       "name": "DJI Mini 4 Pro",
       "price": 759.99,
-      "description": "Drone compacto con cámara 4K/60fps, omnidirectional obstacle sensing, modo portrait vertical y 34 minutos de vuelo.",
+      "description": "Drone compacto con cámara 4K de alta calidad. Vuela por 34 minutos y evita obstáculos automáticamente para vuelos seguros.",
       "category": "Drones",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbU6AD2lfQox8Ypp7T5svrMWllywjKT5ckvQ&s",
-      "stock": 11
+      "stock": 20
     },
     {
       "id": 47,
       "name": "GoPro Hero 12 Black",
       "price": 399.99,
-      "description": "Cámara de acción con estabilización HyperSmooth 6.0, video 5.3K/60fps, HDR y conectividad Bluetooth para audio inalámbrico.",
+      "description": "Cámara de acción muy resistente para grabar deportes y aventuras. Video 5.3K súper estable, incluso en movimiento extremo.",
       "category": "Cámaras",
       "image": "https://coolboxpe.vtexassets.com/arquivos/ids/304787/CHDHX-121-RW_1.jpg?v=638297205164870000",
-      "stock": 22
+      "stock": 30
     },
     {
       "id": 48,
       "name": "Sony A7IV",
-      "price": 2499.99,
-      "description": "Cámara mirrorless full-frame con sensor 33MP, video 4K/60p, autofoco real-time tracking y estabilización 5-axis.",
+      "price": 2299.99,
+      "description": "Cámara profesional con sensor de 33MP. Perfecta para fotos y videos 4K de alta calidad, con un enfoque automático muy preciso.",
       "category": "Cámaras",
       "image": "https://d1abyhu02s963u.cloudfront.net/wp-content/uploads/2022/05/Sony-a7-IV-Mirrorless-Camera-con-Lente-28-70mm-1-2.jpg",
-      "stock": 7
+      "stock": 14
     },
     {
       "id": 49,
       "name": "Canon EOS R6 Mark II",
-      "price": 2499.99,
-      "description": "Cámara mirrorless con sensor full-frame 24.2MP, video 4K/60p sin crop, 40fps en modo ráfaga y dual pixel AF II.",
+      "price": 2299.99,
+      "description": "Cámara profesional con sensor de 24MP. Excelente para tomar fotos de acción a alta velocidad y grabar video 4K.",
       "category": "Cámaras",
       "image": "https://media.falabella.com/falabellaPE/128839210_01/w=800,h=800,fit=pad",
-      "stock": 9
+      "stock": 16
     },
     {
       "id": 50,
       "name": "Fujifilm X-T5",
-      "price": 1699.99,
-      "description": "Cámara APS-C con sensor 40.2MP, video 6.2K/30p, estabilización 7-stop y diseño clásico con diales físicos.",
+      "price": 1599.99,
+      "description": "Cámara de estilo clásico con sensor de 40MP. Graba videos en 6.2K y toma fotos muy nítidas, ideal para fotógrafos que aman el estilo retro.",
       "category": "Cámaras",
       "image": "https://fujifilm.pe/wp-content/uploads/2024/05/125021-Camara-Digital-FUJIFILM-X-T5-Black-Noir.webp",
-      "stock": 13
+      "stock": 20
     },
     {
       "id": 51,
       "name": "LG InstaView Door-in-Door",
-      "price": 2999.99,
-      "description": "Refrigeradora smart con panel InstaView, tecnología Linear Cooling, dispensador de agua y hielo, y 693 litros de capacidad.",
+      "price": 2699.99,
+      "description": "Refrigeradora inteligente con panel de vidrio InstaView (toca y se ilumina por dentro). Tiene dispensador de agua y hielo, y gran capacidad.",
       "category": "Electrodomésticos",
       "image": "https://rimage.ripley.com.pe/home.ripley/Attachment/WOP/1/2003340913670/full_image-2003340913670",
-      "stock": 6
+      "stock": 12
     },
     {
       "id": 52,
       "name": "Samsung Bespoke AI",
-      "price": 2599.99,
-      "description": "Refrigeradora modular con Family Hub, IA para gestión de alimentos, panel de vidrio personalizable y tecnología SpaceMax.",
+      "price": 2399.99,
+      "description": "Refrigeradora modular con pantalla táctil. Se conecta a internet, te ayuda a gestionar alimentos y tiene un diseño que puedes personalizar.",
       "category": "Electrodomésticos",
       "image": "https://image-us.samsung.com/SamsungUS/home/home-appliances/refrigerators/4-door-flex/02082024/RF29DB9900QD_01_Stainless_Steel_SCOM.jpg",
-      "stock": 8
+      "stock": 15
     },
     {
       "id": 53,
       "name": "Miele Complete C3",
-      "price": 699.99,
-      "description": "Aspiradora canister con motor Vortex, filtro HEPA AirClean, bolsas de larga duración y accesorios para todo tipo de pisos.",
+      "price": 599.99,
+      "description": "Aspiradora potente con filtro HEPA para un aire más limpio. Perfecta para todo tipo de suelos y atrapa la suciedad eficientemente.",
       "category": "Electrodomésticos",
-      "image": "https://m.media-amazon.com/images/I/61BgPZke5lL._AC_SL1500_.jpg",
-      "stock": 15
+      "image": "https://m.media-amazon.com/images/I/61BgPZke5lL.AC_SL1500.jpg",
+      "stock": 25
     },
     {
       "id": 54,
       "name": "Dyson V15 Detect",
-      "price": 749.99,
-      "description": "Aspiradora inalámbrica con sensor de partículas Laser Dust Detection, 60 minutos de autonomía y sistema de filtración completo.",
+      "price": 699.99,
+      "description": "Aspiradora sin cables de alta tecnología. Detecta el polvo invisible con un láser y la batería dura hasta 60 minutos.",
       "category": "Electrodomésticos",
       "image": "https://http2.mlstatic.com/D_NQ_NP_2X_807402-MPE86860905645_062025-T.webp",
-      "stock": 18
+      "stock": 28
     },
     {
       "id": 55,
       "name": "Breville Barista Touch",
-      "price": 1199.99,
-      "description": "Máquina de café espresso automática con molinillo integrado, pantalla táctil, sistema de vapor automático y 30 ajustes de molienda.",
+      "price": 999.99,
+      "description": "Máquina de café espresso automática. Prepara tu café con solo tocar una pantalla. Incluye molinillo y sistema de leche automático.",
       "category": "Electrodomésticos",
-      "image": "https://m.media-amazon.com/images/I/71zWmCnDvBL._AC_SL1500_.jpg",
-      "stock": 11
+      "image": "https://m.media-amazon.com/images/I/71zWmCnDvBL.AC_SL1500.jpg",
+      "stock": 18
     },
     {
       "id": 56,
       "name": "Apple HomePod 2",
-      "price": 299.99,
-      "description": "Altavoz inteligente con sonido espacial, reconocimiento de voz Siri, sensores de temperatura y humedad, y compatibilidad Matter.",
+      "price": 279.99,
+      "description": "Parlante inteligente de Apple con excelente sonido 360°. Controla tu casa con Siri y mide la temperatura ambiente.",
       "category": "Smart Home",
       "image": "https://media.falabella.com/falabellaPE/127786415_01/w=800,h=800,fit=pad",
-      "stock": 23
+      "stock": 33
     },
     {
       "id": 57,
       "name": "Google Nest Hub Max",
-      "price": 229.99,
-      "description": "Pantalla inteligente de 10\" con Google Assistant, cámara para videollamadas, control de dispositivos smart y reproducción de video.",
+      "price": 199.99,
+      "description": "Pantalla inteligente de 10 pulgadas con el Asistente de Google. Sirve para videollamadas, ver videos y controlar tu hogar.",
       "category": "Smart Home",
       "image": "https://http2.mlstatic.com/D_NQ_NP_602423-MPE90642004008_082025-O-google-nest-hub-max.webp",
-      "stock": 19
+      "stock": 29
     },
     {
       "id": 58,
       "name": "Philips Hue Starter Kit",
-      "price": 199.99,
-      "description": "Kit de iluminación inteligente con 3 bombillas color, bridge, control por app y compatibilidad con Alexa, Google y HomeKit.",
+      "price": 179.99,
+      "description": "Kit para empezar tu hogar inteligente. 3 bombillas que cambian de color, control por app y funciona con todos los asistentes de voz.",
       "category": "Smart Home",
       "image": "https://http2.mlstatic.com/D_NQ_NP_2X_738796-MLA99462638026_112025-T.webp",
-      "stock": 32
+      "stock": 42
     },
     {
       "id": 59,
       "name": "Ring Video Doorbell Pro 2",
-      "price": 249.99,
-      "description": "Timbre inteligente con video 1536p, visión 3D Motion Detection, audio bidireccional y resistencia al agua IPX5.",
+      "price": 219.99,
+      "description": "Timbre de puerta inteligente con cámara de alta calidad. Te permite ver quién toca y hablar con la persona desde tu celular.",
       "category": "Smart Home",
-      "image": "https://m.media-amazon.com/images/I/61WuMLLpaML._SL1000_.jpg",
-      "stock": 21
+      "image": "https://m.media-amazon.com/images/I/61WuMLLpaML.SL1000.jpg",
+      "stock": 31
     },
     {
       "id": 60,
       "name": "Ecobee Smart Thermostat",
-      "price": 249.99,
-      "description": "Termostato inteligente con sensor de presencia, control por voz, pantalla táctil y ahorro energético verificado por Energy Star.",
+      "price": 199.99,
+      "description": "Termostato inteligente para controlar la temperatura de tu casa con la voz o el celular, ahorrando energía.",
       "category": "Smart Home",
-      "image": "https://m.media-amazon.com/images/I/31yApbM18QL._AC_SL1000_.jpg",
-      "stock": 16
+      "image": "https://m.media-amazon.com/images/I/31yApbM18QL.AC_SL1000.jpg",
+      "stock": 26
     },
     {
       "id": 61,
       "name": "Anker 737 Power Bank",
-      "price": 149.99,
-      "description": "Power bank de 24,000mAh con salida PD 140W, pantalla digital para monitoreo, 2 puertos USB-C y 1 USB-A.",
+      "price": 129.99,
+      "description": "Batería externa portátil de carga ultra rápida (140W). Gran capacidad (24,000mAh) para cargar varias veces tu laptop y celular.",
       "category": "Accesorios",
       "image": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/3278/PMP20000427957/full_image-1.jpeg",
-      "stock": 40
+      "stock": 50
     },
     {
       "id": 62,
       "name": "Belkin BoostCharge Pro 3-in-1",
-      "price": 149.99,
-      "description": "Cargador inalámbrico 3 en 1 para iPhone, AirPods y Apple Watch, con tecnología MagSafe y diseño premium.",
+      "price": 129.99,
+      "description": "Cargador inalámbrico 3 en 1 para todos tus dispositivos Apple (iPhone, Watch, AirPods). Usa tecnología MagSafe.",
       "category": "Accesorios",
       "image": "https://pe.tiendasishop.com/cdn/shop/files/WIZ023ttWH_1.webp?v=1726593852",
-      "stock": 28
+      "stock": 38
     },
     {
       "id": 63,
       "name": "Samsung T7 Shield 2TB",
-      "price": 149.99,
-      "description": "SSD portátil resistente IP65, velocidades 1050MB/s, conexión USB 3.2 Gen2 y protección contra caídas de 3 metros.",
+      "price": 159.99,
+      "description": "Disco duro externo SSD de 2TB súper resistente. Es muy rápido y a prueba de golpes, agua y polvo.",
       "category": "Accesorios",
       "image": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/1736/PMP20000552952/full_image-1.jpeg",
-      "stock": 35
+      "stock": 45
     },
     {
       "id": 64,
       "name": "Logitech C920x Pro",
-      "price": 89.99,
-      "description": "Webcam Full HD 1080p/30fps, autofoco, doble micrófono stereo y montaje universal para streaming y videoconferencias.",
+      "price": 79.99,
+      "description": "Cámara web Full HD de gran calidad para videollamadas y streaming. Con enfoque automático y micrófono estéreo.",
       "category": "Accesorios",
-      "image": "https://m.media-amazon.com/images/I/71YN85pLGcL._AC_SL1500_.jpg",
-      "stock": 42
+      "image": "https://m.media-amazon.com/images/I/71YN85pLGcL.AC_SL1500.jpg",
+      "stock": 52
     },
     {
       "id": 65,
       "name": "Blue Yeti Nano",
-      "price": 99.99,
-      "description": "Micrófono USB condenser con dos patrones polares, control de ganancia, mute táctil y calidad de estudio para podcasting.",
+      "price": 89.99,
+      "description": "Micrófono profesional USB de calidad de estudio. Perfecto para podcasting, streaming y grabar voz con gran claridad.",
       "category": "Accesorios",
       "image": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/3975/PMP20000077215/imagen3-1.jpeg",
-      "stock": 25
+      "stock": 35
     },
     {
       "id": 66,
       "name": "OWC Thunderbolt 4 Dock",
-      "price": 299.99,
-      "description": "Dock con 3 puertos Thunderbolt 4, 3 USB-A, Ethernet 2.5Gb, SD card reader y salida de video dual 8K.",
+      "price": 279.99,
+      "description": "Estación de conexión (Dock) para expandir tu laptop. Agrega múltiples puertos USB y salidas de video de alta resolución.",
       "category": "Accesorios",
-      "image": "https://m.media-amazon.com/images/I/41Q0ZRfbbkL._SL1000_.jpg",
-      "stock": 18
+      "image": "https://m.media-amazon.com/images/I/41Q0ZRfbbkL.SL1000.jpg",
+      "stock": 28
     },
     {
       "id": 67,
       "name": "Satechi Aluminum Stand",
-      "price": 79.99,
-      "description": "Base para MacBook con diseño de aluminio, elevación ergonómica, gestión de cables y compatibilidad con carga inalámbrica.",
+      "price": 69.99,
+      "description": "Base de aluminio para tu laptop. La eleva para mejor ergonomía, disipación de calor y tiene espacio para organizar cables.",
       "category": "Accesorios",
-      "image": "https://m.media-amazon.com/images/I/81PwldbKmPL._AC_UF894,1000_QL80_.jpg",
-      "stock": 30
+      "image": "https://m.media-amazon.com/images/I/81PwldbKmPL.AC_UF894,1000_QL80.jpg",
+      "stock": 40
     },
     {
       "id": 68,
       "name": "Spigen Tough Armor",
-      "price": 39.99,
-      "description": "Funda para Samsung S24 Ultra con protección militar, diseño de dos piezas, kickstand integrado y bordes elevados.",
+      "price": 34.99,
+      "description": "Funda protectora de máxima resistencia (grado militar) para Samsung S24 Ultra. Incluye un soporte trasero (kickstand).",
       "category": "Accesorios",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTegvbaCIaeJUzqIYKx60t1klHb23e71aRt9A&s",
-      "stock": 50
+      "stock": 60
     },
     {
       "id": 69,
       "name": "Apple MagSafe Battery Pack",
-      "price": 99.99,
-      "description": "Batería portátil MagSafe de 1460mAh, carga inalámbrica, integración con iOS y diseño compacto para iPhone.",
+      "price": 89.99,
+      "description": "Batería externa MagSafe para iPhone. Se adhiere magnéticamente y ofrece carga inalámbrica extra.",
       "category": "Accesorios",
       "image": "https://promart.vteximg.com.br/arquivos/ids/8513128/imageUrl_1.jpg?v=638705342664630000",
-      "stock": 33
+      "stock": 43
     },
     {
       "id": 70,
       "name": "SanDisk Extreme Pro 1TB",
-      "price": 119.99,
-      "description": "Tarjeta SD UHS-I V30, velocidades de lectura 200MB/s, resistente a agua, temperaturas extremas y rayos X.",
+      "price": 109.99,
+      "description": "Tarjeta de memoria SD de 1TB ultra rápida y muy resistente. Ideal para cámaras profesionales y video 4K/8K.",
       "category": "Accesorios",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7hwXSbo39uO80Dy_TEbCkc-k55Ud1GMOESA&s",
-      "stock": 45
+      "stock": 55
     },
     {
       "id": 71,
       "name": "OnePlus 11 5G",
-      "price": 799.99,
-      "description": "Smartphone con pantalla LTPO 3.0 de 120Hz, Snapdragon 8 Gen 2, cámara Hasselblad de 50MP y carga de 100W.",
+      "price": 749.99,
+      "description": "Celular de alta gama con pantalla súper fluida (120Hz). Carga extremadamente rápida y una excelente cámara Hasselblad de 50MP.",
       "category": "Smartphones",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpqHT_DJrCWPzbMPbIP9uMXHH4GmxqPLxsEA&s",
-      "stock": 22
+      "stock": 32
     },
     {
       "id": 72,
       "name": "Google Pixel 8 Pro",
-      "price": 999.99,
-      "description": "Teléfono con Tensor G3, pantalla Super Actua 1344p, cámara de 50MP con zoom 5x y actualizaciones por 7 años.",
+      "price": 949.99,
+      "description": "El celular de Google. Tiene la mejor inteligencia artificial, una cámara increíble con zoom óptico 5x y recibirá actualizaciones de seguridad por 7 años.",
       "category": "Smartphones",
       "image": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/3325/PMP20000026934/full_image-1.jpeg",
-      "stock": 17
+      "stock": 27
     },
     {
       "id": 73,
       "name": "Nothing Phone 2",
-      "price": 699.99,
-      "description": "Diseño transparente con Glyph Interface, Snapdragon 8+ Gen 1, pantalla OLED 120Hz y sistema operativo Nothing OS.",
+      "price": 649.99,
+      "description": "Celular con un diseño único y luces traseras (Glyph Interface). Pantalla OLED rápida y procesador potente.",
       "category": "Smartphones",
       "image": "https://st.gsmarena.com/imgroot/news/23/07/nothing-phone-2-design-confirmed-glyph-demoed/-660/gsmarena_000.jpg",
-      "stock": 19
+      "stock": 29
     },
     {
       "id": 74,
       "name": "ASUS ROG Phone 7 Ultimate",
-      "price": 1399.99,
-      "description": "Smartphone gaming con pantalla AMOLED 165Hz, Snapdragon 8 Gen 2, sistema de enfriamiento AeroActive y AirTrigger 7.",
+      "price": 1299.99,
+      "description": "El celular perfecto para jugar. Pantalla AMOLED ultra rápida (165Hz) y gatillos integrados para un control total.",
       "category": "Smartphones",
-      "image": "https://m.media-amazon.com/images/I/610sPrvVhyL._AC_SL1500_.jpg",
-      "stock": 8
+      "image": "https://m.media-amazon.com/images/I/610sPrvVhyL.AC_SL1500.jpg",
+      "stock": 15
     },
     {
       "id": 75,
       "name": "Samsung Galaxy Z Fold 5",
-      "price": 1799.99,
-      "description": "Smartphone plegable con pantalla interior de 7.6\", Snapdragon 8 Gen 2, S-Pen compatible y bisagras mejoradas.",
+      "price": 1699.99,
+      "description": "El celular que se abre como una tablet. Pantalla interior gigante de 7.6\" para trabajar o ver videos.",
       "category": "Smartphones",
       "image": "https://media.falabella.com/falabellaPE/142715467_01/w=800,h=800,fit=pad",
-      "stock": 10
+      "stock": 18
     },
     {
       "id": 76,
       "name": "MSI Raider GE78 HX",
-      "price": 3299.99,
-      "description": "Laptop gaming con pantalla Mini-LED 17\" 240Hz, Intel Core i9-14900HX, RTX 4090 y sistema de refrigeración Cooler Boost 5.",
+      "price": 3099.99,
+      "description": "Laptop gamer extrema con pantalla de 17 pulgadas. Máxima potencia gráfica (RTX 4090) y sistema de enfriamiento avanzado.",
       "category": "Laptops",
       "image": "https://storage-asset.msi.com/global/picture/image/feature/nb/GE/Raider-GE78-HX-13V/kv-pd.png",
-      "stock": 5
+      "stock": 12
     },
     {
       "id": 77,
       "name": "Razer Blade 16",
-      "price": 3699.99,
-      "description": "Laptop gaming premium con pantalla dual-mode 4K/120Hz o FHD+/240Hz, Intel Core i9, RTX 4090 y construcción de aluminio CNC.",
+      "price": 3499.99,
+      "description": "Laptop gamer premium de aluminio. Potente tarjeta RTX 4090 y una pantalla de 16\" que puedes usar en 4K o en modo ultra rápido para juegos.",
       "category": "Laptops",
-      "image": "https://m.media-amazon.com/images/I/81sX1nwD+fL._AC_SL1500_.jpg",
-      "stock": 4
+      "image": "https://m.media-amazon.com/images/I/81sX1nwD+fL.AC_SL1500.jpg",
+      "stock": 10
     },
     {
       "id": 78,
       "name": "Laptop Victius",
-      "price": 2799.99,
-      "description": "Laptop Gamer HP Victus 15 de 15.6\" Intel Core i5-12450H (12va Gen), 8 núcleos, NVIDIA GeForce RTX 3050, 16GB RAM, disco sólido de 512GB, modelo 15-fa0022la",
+      "price": 1499.99,
+      "description": "Laptop gamer ideal para empezar. Procesador i5 y tarjeta gráfica RTX 3050, perfecta para jugar a 1080p con buen rendimiento.",
       "category": "Laptops",
       "image": "https://hiraoka.com.pe/media/catalog/product/a/1/a14ldla_2imagenprincipalsintexto_b_1_.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=560&width=700&canvas=700:560",
-      "stock": 12
+      "stock": 20
     },
     {
       "id": 79,
       "name": "Acer Swift Edge 16",
-      "price": 1299.99,
-      "description": "Laptop ultraligera de 1.23kg con pantalla OLED 4K 16\", AMD Ryzen 7 7840U, 16GB RAM y diseño delgado de 12.95mm.",
+      "price": 1199.99,
+      "description": "Laptop increíblemente ligera con pantalla OLED 4K de 16 pulgadas. Poderosa y fácil de llevar a todas partes.",
       "category": "Laptops",
-      "image": "https://m.media-amazon.com/images/I/51p9viAwACL._AC_SL1280_.jpg",
-      "stock": 15
+      "image": "https://m.media-amazon.com/images/I/51p9viAwACL.AC_SL1280.jpg",
+      "stock": 25
     },
     {
       "id": 80,
       "name": "Microsoft Surface Laptop Studio 2",
-      "price": 2499.99,
-      "description": "Convertible 3-en-1 con pantalla táctil 120Hz, Intel Core i7-13700H, RTX 4060 y modo Stage para presentaciones.",
+      "price": 2399.99,
+      "description": "Laptop versátil 3-en-1. Se transforma en tablet y atril. Pantalla táctil rápida y gráficos potentes para crear y trabajar.",
       "category": "Laptops",
       "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Surface-Laptop-Studio-2-full-bleed-Innovate--Captivate-Accelerate?scl=1",
-      "stock": 9
+      "stock": 18
     },
     {
       "id": 81,
       "name": "TCL QM8 85\"",
-      "price": 1999.99,
-      "description": "TV Mini-LED 4K con 2000 zonas de atenuación, brillo 3000 nits, Dolby Vision IQ y procesador AiPQ 3.0.",
+      "price": 1899.99,
+      "description": "Televisor 4K Mini-LED de 85 pulgadas. Imagen gigante con brillo extremo y negros muy profundos. Ideal para salas grandes.",
       "category": "Televisores",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS35UBT6-OV-lLss3043XRTT9ZEsSCFmVwG8w&s",
-      "stock": 16
+      "stock": 26
     },
     {
       "id": 82,
       "name": "Hisense U8K 75\"",
-      "price": 1799.99,
-      "description": "TV ULED con tecnología Mini-LED, 144Hz nativo, Quantum Dot, Dolby Vision Atmos y compatibilidad con AMD FreeSync Premium Pro.",
+      "price": 1699.99,
+      "description": "Televisor 4K Mini-LED de 75 pulgadas. Muy brillante, colores vivos y excelente para videojuegos por su alta velocidad (144Hz).",
       "category": "Televisores",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFqOA_PoQIdx5MNGVzVgB9eudhf2jUS2SGNQ&s",
-      "stock": 8
+      "stock": 15
     },
     {
       "id": 83,
       "name": "Panasonic MZ2000",
-      "price": 2999.99,
-      "description": "TV OLED con sistema de sonido 360 Soundscape Pro, pantalla Master OLED Ultimate, Dolby Atmos y calibración profesional.",
+      "price": 2799.99,
+      "description": "Televisor OLED premium. El mejor sonido integrado con Dolby Atmos. Imágenes perfectas y calibración de cine.",
       "category": "Televisores",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yaO-w1ynAh8DcwljfY7mGccbVL0vTwAWrQ&s",
-      "stock": 5
+      "stock": 12
     }
   ]
 }
-  
