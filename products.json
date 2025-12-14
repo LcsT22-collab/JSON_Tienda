@@ -7,7 +7,9 @@
       "description": "El celular más avanzado de Apple. Tiene una cámara profesional de tres lentes, una pantalla súper nítida de 6.7\" y un cuerpo muy resistente de titanio.",
       "category": "Smartphones",
       "image": "https://media.falabella.com/falabellaPE/20040002_01/w=800,h=800,fit=pad",
-      "stock": 25
+      "stock": 25,
+      "rating": 4.7,
+      "reviewCount": 342
     },
     {
       "id": 2,
@@ -16,7 +18,9 @@
       "description": "El mejor celular Android. Pantalla grande de 6.8\", cámara ultra potente de 200MP y un lápiz óptico S-Pen para escribir y dibujar.",
       "category": "Smartphones",
       "image": "https://http2.mlstatic.com/D_NQ_NP_915824-MLA91652794188_092025-O.webp",
-      "stock": 22
+      "stock": 22,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 3,
@@ -25,7 +29,9 @@
       "description": "Un celular potente de excelente valor. Gran pantalla AMOLED, cámara de 200MP y se carga muy rápido (120W) para que nunca te quedes sin batería.",
       "category": "Smartphones",
       "image": "https://http2.mlstatic.com/D_NQ_NP_748621-MLA76569863127_052024-O.webp",
-      "stock": 35
+      "stock": 35,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 4,
@@ -34,7 +40,9 @@
       "description": "Un celular con diseño elegante, muy rápido (144Hz) y resistente al agua. Ideal para el día a día con una buena cámara de 50MP.",
       "category": "Smartphones",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37cyJrxDBGW5zKGPva3Zn-hEMneaYuTLiVg&s",
-      "stock": 30
+      "stock": 30,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 5,
@@ -43,7 +51,9 @@
       "description": "Celular de alta gama con una triple cámara excelente de 50MP, pantalla nítida y una batería que dura mucho tiempo.",
       "category": "Smartphones",
       "image": "https://pe.celulares.com/fotos/hihonor-magic5-pro-97053-g-alt.jpg",
-      "stock": 20
+      "stock": 20,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 6,
@@ -52,7 +62,9 @@
       "description": "Laptop profesional de Apple. Extremadamente potente para trabajos pesados (edición, diseño, programación), con una pantalla impresionante de 16.2\".",
       "category": "Laptops",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Wb0UrOBadnuJnKkOr5Zu3NhkRWc0NlbCaQ&s",
-      "stock": 15
+      "stock": 15,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 7,
@@ -61,7 +73,9 @@
       "description": "Laptop premium con una pantalla OLED 3.5K increíble para ver todo con máxima calidad. Muy potente para trabajar o jugar.",
       "category": "Laptops",
       "image": "https://sm.pcmag.com/pcmag_uk/review/d/dell-xps-1/dell-xps-15-9530-2023_uxjn.jpg",
-      "stock": 17
+      "stock": 17,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 8,
@@ -70,7 +84,9 @@
       "description": "Laptop 2-en-1 que se convierte en tablet. Tiene una pantalla táctil OLED de 14\" y un diseño muy elegante para el trabajo.",
       "category": "Laptops",
       "image": "https://pe-media.hptiendaenlinea.com/catalog/product/3/0/30A09LA-1_T1679063173.png",
-      "stock": 22
+      "stock": 22,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 9,
@@ -79,7 +95,9 @@
       "description": "Laptop gamer de alto rendimiento con una tarjeta gráfica muy poderosa (RTX 4090). Pantalla de 16\" súper rápida para los juegos más exigentes.",
       "category": "Laptops",
       "image": "https://p2-ofp.static.pub/fes/cms/2022/12/15/iiv0yj4xis18fq2p5zgbcubx18lggs470202.png",
-      "stock": 15
+      "stock": 15,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 10,
@@ -88,7 +106,9 @@
       "description": "Laptop ultraligera y delgada. Pantalla OLED nítida de 14\" y batería que dura más de 15 horas, perfecta para llevar a todas partes.",
       "category": "Laptops",
       "image": "https://dlcdnwebimgs.asus.com/gain/26b2a6c1-fa0f-4de9-87e7-3cbde6b4fd77/",
-      "stock": 25
+      "stock": 25,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 11,
@@ -97,7 +117,9 @@
       "description": "Televisor OLED 4K de 65 pulgadas. Ofrece imágenes perfectas, colores vibrantes y es excelente para películas y videojuegos, con sonido envolvente.",
       "category": "Televisores",
       "image": "https://home.ripley.com.pe/Attachment/WOP_5/2018313538620/2018313538620_2.jpg",
-      "stock": 16
+      "stock": 16,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 12,
@@ -106,7 +128,9 @@
       "description": "Televisor Neo QLED 4K de 75 pulgadas. Brillo espectacular y colores intensos. Su gran tamaño y velocidad lo hacen ideal para el cine en casa y el gaming.",
       "category": "Televisores",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZUYixlCfsaQIMay1M_ye4HwkNUMsoM4_DYQ&s",
-      "stock": 14
+      "stock": 14,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 13,
@@ -115,7 +139,9 @@
       "description": "Televisor OLED de 55 pulgadas. Colores muy precisos y un sonido que sale directamente de la pantalla. Usa Google TV para acceder a todas tus apps fácilmente.",
       "category": "Televisores",
       "image": "https://hiraoka.com.pe/media/catalog/product/g/e/genba_k-55xr80_01_main_dealers_1000x1000px.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=560&width=700&canvas=700:560",
-      "stock": 18
+      "stock": 18,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 14,
@@ -124,7 +150,9 @@
       "description": "Consola de videojuegos de última generación. Carga juegos casi al instante y ofrece gráficos impresionantes en 4K. Incluye el control avanzado DualSense.",
       "category": "Gaming",
       "image": "https://rimage.ripley.com.pe/home.ripley/Attachment/WOP/1/2031346623958/image1-2031346623958.webp",
-      "stock": 25
+      "stock": 25,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 15,
@@ -133,7 +161,9 @@
       "description": "Consola de videojuegos más potente de Xbox. Juega en 4K con la máxima velocidad y tienes acceso a cientos de juegos con 3 meses de Game Pass.",
       "category": "Gaming",
       "image": "https://http2.mlstatic.com/D_Q_NP_729356-MLA99452401750_112025-O.webp",
-      "stock": 20
+      "stock": 20,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 16,
@@ -142,7 +172,9 @@
       "description": "Consola híbrida para jugar en tu TV o llevarla contigo. Pantalla OLED vibrante para un mejor juego portátil y un mejor sonido.",
       "category": "Gaming",
       "image": "https://media.falabella.com/falabellaPE/116992404_01/w=800,h=800,fit=pad",
-      "stock": 30
+      "stock": 30,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 17,
@@ -151,7 +183,9 @@
       "description": "Computadora de mano para jugar tus juegos de Steam en cualquier lugar. Pantalla OLED de alta calidad y 1TB de almacenamiento.",
       "category": "Gaming",
       "image": "https://http2.mlstatic.com/D_NQ_NP_981468-MPE76157708738_052024-O.webp",
-      "stock": 15
+      "stock": 15,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 18,
@@ -160,7 +194,9 @@
       "description": "Control profesional para PlayStation 5. Totalmente personalizable con botones extra y gatillos ajustables para ventaja competitiva.",
       "category": "Gaming",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ihASQzhu8dh2ZzTozepjhjSzL6UcPI_veA&s",
-      "stock": 30
+      "stock": 30,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 19,
@@ -169,7 +205,9 @@
       "description": "Control profesional para Xbox. Ajusta los gatillos y usa paletas traseras para mejorar tu juego. Incluye un estuche y base de carga.",
       "category": "Gaming",
       "image": "https://m.media-amazon.com/images/I/61tncw0i36L.SL1500.jpg",
-      "stock": 25
+      "stock": 25,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 20,
@@ -178,7 +216,9 @@
       "description": "Tarjeta de video más potente para PC. Te permite jugar en 4K y usar aplicaciones de diseño o edición al máximo rendimiento.",
       "category": "Componentes PC",
       "image": "https://m.media-amazon.com/images/I/81KR0fO8WgL.AC_SL1500.jpg",
-      "stock": 12
+      "stock": 12,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 21,
@@ -187,7 +227,9 @@
       "description": "El mejor procesador de AMD para juegos. Ofrece el máximo rendimiento para que todo corra muy rápido en tu PC.",
       "category": "Componentes PC",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmJsVsK8D3PVmSvVQ1KS94sSp7e8FvgiOxLA&s",
-      "stock": 20
+      "stock": 20,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 22,
@@ -196,7 +238,9 @@
       "description": "Memoria RAM de alta velocidad (32GB) para PC. Hace que tu computadora sea súper rápida y viene con luces RGB para un estilo genial.",
       "category": "Componentes PC",
       "image": "https://images-cdn.ubuy.co.in/633b6ac0dfdd1872832a79d4-corsair-dominator-platinum-rgb-128gb.jpg",
-      "stock": 40
+      "stock": 40,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 23,
@@ -205,7 +249,9 @@
       "description": "Disco duro SSD de 2TB de máxima velocidad. Carga tu sistema operativo y tus juegos en segundos. Incluye disipador de calor.",
       "category": "Componentes PC",
       "image": "https://oechsle.vteximg.com.br/arquivos/ids/19590757/imageUrl_1.jpg?v=638662344509400000",
-      "stock": 35
+      "stock": 35,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 24,
@@ -214,7 +260,9 @@
       "description": "Monitor gamer OLED de 27 pulgadas. Imágenes con colores perfectos, movimiento ultra fluido (240Hz) y la respuesta más rápida para juegos.",
       "category": "Monitores",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSo-o9Sf6ETOpKgLBr8H_F1xa7xnENFI_bkQ&s",
-      "stock": 15
+      "stock": 15,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 25,
@@ -223,7 +271,9 @@
       "description": "Monitor Ultrawide OLED curvo de 45 pulgadas. El más inmersivo para juegos. Pantalla enorme con curvatura que te mete en la acción, a una velocidad increíble (240Hz).",
       "category": "Monitores",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ6sL3gYMkr9tOVPipsckL-kdweA0tQSWTIw&s",
-      "stock": 12
+      "stock": 12,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 26,
@@ -232,7 +282,9 @@
       "description": "Monitor profesional 4K de 32 pulgadas. Colores súper precisos, ideal para diseño y edición. Se puede conectar con un solo cable USB-C (con carga para laptop).",
       "category": "Monitores",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCLILDn2TwiZE9c8g_UMXV1FRScsaQ69GqNg&s",
-      "stock": 20
+      "stock": 20,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 27,
@@ -241,7 +293,9 @@
       "description": "Monitor Super Ultrawide curvo de 49 pulgadas. Sentirás que tienes dos monitores gigantes en uno. Ideal para simulación, trabajo y juegos.",
       "category": "Monitores",
       "image": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/3278/PMP20000439859/full_image-1.jpeg",
-      "stock": 10
+      "stock": 10,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 28,
@@ -250,7 +304,9 @@
       "description": "Tablet profesional con el chip M2 súper potente. Pantalla grande de 12.9\" perfecta para dibujar, diseñar y reemplazar una laptop.",
       "category": "Tablets",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBPB8bktUyJWx9a68ssHKdsga_7g1ldXmzDw&s",
-      "stock": 25
+      "stock": 25,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 29,
@@ -259,7 +315,9 @@
       "description": "Tablet Android más grande (14.6\"). Incluye el lápiz S-Pen y es resistente al agua. Excelente para entretenimiento y productividad.",
       "category": "Tablets",
       "image": "https://promart.vteximg.com.br/arquivos/ids/7419325/image-c5c66a8eecb94c949ad15e9eea517e19.jpg?v=638272736660130000",
-      "stock": 20
+      "stock": 20,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 30,
@@ -268,7 +326,9 @@
       "description": "Tablet que funciona como laptop. Ideal para llevar a todas partes, con una pantalla de 13\" y teclado Signature incluido.",
       "category": "Tablets",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPR1UJhEqOgFcR1XcJ0X_3U8FHylMGDpSoaA&s",
-      "stock": 18
+      "stock": 18,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 31,
@@ -277,7 +337,9 @@
       "description": "Audífonos de diadema con la mejor cancelación de ruido. Ideales para viajar o trabajar sin distracciones. Batería que dura hasta 30 horas.",
       "category": "Audio",
       "image": "https://www.sony.com.pe/image/6145c1d32e6ac8e63a46c912dc33c5bb?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF",
-      "stock": 35
+      "stock": 35,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 32,
@@ -286,7 +348,9 @@
       "description": "Audífonos inalámbricos para Apple. Cancelan el ruido, tienen sonido envolvente y el estuche se carga con MagSafe.",
       "category": "Audio",
       "image": "https://pe.tiendasishop.com/cdn/shop/files/IMG-14912675.jpg?v=1727286009&width=1000",
-      "stock": 40
+      "stock": 40,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 33,
@@ -295,7 +359,9 @@
       "description": "Audífonos con audio inmersivo y cancelación de ruido. Ligeros y cómodos para usar todo el día.",
       "category": "Audio",
       "image": "https://pe.tiendasishop.com/cdn/shop/files/bose-quietcomfort-ultra-earbuds-black-01.webp?v=1729888248",
-      "stock": 28
+      "stock": 28,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 34,
@@ -304,7 +370,9 @@
       "description": "Parlante inteligente con sonido 360° de alta calidad (Dolby Atmos). Puedes controlarlo con tu voz (Alexa o Google).",
       "category": "Audio",
       "image": "https://electroacustica.pe/wp-content/uploads/2023/04/parlante-sonos-era-300-negro-02.jpg",
-      "stock": 22
+      "stock": 22,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 35,
@@ -313,7 +381,9 @@
       "description": "Parlante portátil resistente al agua y al polvo. Batería de 12 horas, perfecto para fiestas y exteriores.",
       "category": "Audio",
       "image": "https://coolboxpe.vtexassets.com/arquivos/ids/329445/Parlante-JBL-Flip-6-negro_1.jpg?v=638361820226670000",
-      "stock": 45
+      "stock": 45,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 36,
@@ -322,7 +392,9 @@
       "description": "Teclado inalámbrico cómodo y premium para trabajar. Se ilumina de forma inteligente y se conecta a varios dispositivos a la vez.",
       "category": "Periféricos",
       "image": "https://media.falabella.com/falabellaPE/114060147_01/w=800,h=800,fit=pad",
-      "stock": 38
+      "stock": 38,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 37,
@@ -331,7 +403,9 @@
       "description": "Mouse ergonómico de precisión para profesionales. Rueda de desplazamiento súper rápida y botones silenciosos.",
       "category": "Periféricos",
       "image": "https://media.falabella.com/falabellaPE/119550963_01/w=1500,h=1500,fit=pad",
-      "stock": 42
+      "stock": 42,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 38,
@@ -340,7 +414,9 @@
       "description": "Teclado mecánico gamer con luces RGB personalizables. Respuesta rápida para jugar y un cómodo reposamuñecas.",
       "category": "Periféricos",
       "image": "https://http2.mlstatic.com/D_NQ_NP_743679-MLA100064835719_122025-O.webp",
-      "stock": 26
+      "stock": 26,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 39,
@@ -349,7 +425,9 @@
       "description": "Audífonos gamer de alta fidelidad con cancelación de ruido. Micrófono muy claro y una base de control para ajustar el audio.",
       "category": "Periféricos",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCcqPUBfkaj0Vt5jEx8vfsuaRyRwgABxTdQQ&s",
-      "stock": 20
+      "stock": 20,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 40,
@@ -358,7 +436,9 @@
       "description": "Reloj inteligente Samsung con un bisel que gira para facilitar el control. Mide tu salud, el ejercicio y tiene una batería de larga duración.",
       "category": "Wearables",
       "image": "https://oechsle.vteximg.com.br/arquivos/ids/15732769-1000-1000/image-2f1df6c782b746308fe8176951e72312.jpg?v=638280539962300000",
-      "stock": 30
+      "stock": 30,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 41,
@@ -367,7 +447,9 @@
       "description": "Reloj inteligente Apple con pantalla siempre encendida. Mide tu salud y puedes controlarlo con solo tocar dos veces tus dedos.",
       "category": "Wearables",
       "image": "https://http2.mlstatic.com/D_NQ_NP_2X_758022-MPE93863541916_102025-T-apple-watch-series-9-gps-41mm-sport-band-talla-sm.webp",
-      "stock": 35
+      "stock": 35,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 42,
@@ -376,7 +458,9 @@
       "description": "Reloj deportivo para atletas y aventuras. Se carga con el sol, tiene mapas y la batería dura más de un mes.",
       "category": "Wearables",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF2S9LI44-_jh73HV3b2LlZFyD2t8sPbpg1w&s",
-      "stock": 15
+      "stock": 15,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 43,
@@ -385,7 +469,9 @@
       "description": "Reloj inteligente de Google con Fitbit integrado para seguimiento de salud y ejercicio. Diseño redondo y elegante.",
       "category": "Wearables",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHPA9iXckmBQstLg7YAMnqmo7wm6j7doakbA&s",
-      "stock": 28
+      "stock": 28,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 44,
@@ -394,7 +480,9 @@
       "description": "Visor de realidad virtual/mixta más potente de Meta. Juega y trabaja en mundos virtuales con imágenes nítidas y a todo color.",
       "category": "Realidad Virtual",
       "image": "https://coolboxpe.vtexassets.com/arquivos/ids/402067/XhdrjxYz_-QUEST-3-CNT.jpg?v=638720390422370000",
-      "stock": 25
+      "stock": 25,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 45,
@@ -403,7 +491,9 @@
       "description": "Visor de realidad virtual exclusivo para PlayStation 5. Ofrece juegos en 4K y controles con vibración inmersiva.",
       "category": "Realidad Virtual",
       "image": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/1736/PMP00003042808/full_image-1.jpeg",
-      "stock": 18
+      "stock": 18,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 46,
@@ -412,7 +502,9 @@
       "description": "Drone compacto con cámara 4K de alta calidad. Vuela por 34 minutos y evita obstáculos automáticamente para vuelos seguros.",
       "category": "Drones",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbU6AD2lfQox8Ypp7T5svrMWllywjKT5ckvQ&s",
-      "stock": 20
+      "stock": 20,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 47,
@@ -421,7 +513,9 @@
       "description": "Cámara de acción muy resistente para grabar deportes y aventuras. Video 5.3K súper estable, incluso en movimiento extremo.",
       "category": "Cámaras",
       "image": "https://coolboxpe.vtexassets.com/arquivos/ids/304787/CHDHX-121-RW_1.jpg?v=638297205164870000",
-      "stock": 30
+      "stock": 30,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 48,
@@ -430,7 +524,9 @@
       "description": "Cámara profesional con sensor de 33MP. Perfecta para fotos y videos 4K de alta calidad, con un enfoque automático muy preciso.",
       "category": "Cámaras",
       "image": "https://d1abyhu02s963u.cloudfront.net/wp-content/uploads/2022/05/Sony-a7-IV-Mirrorless-Camera-con-Lente-28-70mm-1-2.jpg",
-      "stock": 14
+      "stock": 14,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 49,
@@ -439,7 +535,9 @@
       "description": "Cámara profesional con sensor de 24MP. Excelente para tomar fotos de acción a alta velocidad y grabar video 4K.",
       "category": "Cámaras",
       "image": "https://media.falabella.com/falabellaPE/128839210_01/w=800,h=800,fit=pad",
-      "stock": 16
+      "stock": 16,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 50,
@@ -448,7 +546,9 @@
       "description": "Cámara de estilo clásico con sensor de 40MP. Graba videos en 6.2K y toma fotos muy nítidas, ideal para fotógrafos que aman el estilo retro.",
       "category": "Cámaras",
       "image": "https://fujifilm.pe/wp-content/uploads/2024/05/125021-Camara-Digital-FUJIFILM-X-T5-Black-Noir.webp",
-      "stock": 20
+      "stock": 20,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 51,
@@ -457,7 +557,9 @@
       "description": "Refrigeradora inteligente con panel de vidrio InstaView (toca y se ilumina por dentro). Tiene dispensador de agua y hielo, y gran capacidad.",
       "category": "Electrodomésticos",
       "image": "https://rimage.ripley.com.pe/home.ripley/Attachment/WOP/1/2003340913670/full_image-2003340913670",
-      "stock": 12
+      "stock": 12,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 52,
@@ -466,7 +568,9 @@
       "description": "Refrigeradora modular con pantalla táctil. Se conecta a internet, te ayuda a gestionar alimentos y tiene un diseño que puedes personalizar.",
       "category": "Electrodomésticos",
       "image": "https://image-us.samsung.com/SamsungUS/home/home-appliances/refrigerators/4-door-flex/02082024/RF29DB9900QD_01_Stainless_Steel_SCOM.jpg",
-      "stock": 15
+      "stock": 15,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 53,
@@ -475,7 +579,9 @@
       "description": "Aspiradora potente con filtro HEPA para un aire más limpio. Perfecta para todo tipo de suelos y atrapa la suciedad eficientemente.",
       "category": "Electrodomésticos",
       "image": "https://m.media-amazon.com/images/I/61BgPZke5lL.AC_SL1500.jpg",
-      "stock": 25
+      "stock": 25,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 54,
@@ -484,7 +590,9 @@
       "description": "Aspiradora sin cables de alta tecnología. Detecta el polvo invisible con un láser y la batería dura hasta 60 minutos.",
       "category": "Electrodomésticos",
       "image": "https://http2.mlstatic.com/D_NQ_NP_2X_807402-MPE86860905645_062025-T.webp",
-      "stock": 28
+      "stock": 28,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 55,
@@ -493,7 +601,9 @@
       "description": "Máquina de café espresso automática. Prepara tu café con solo tocar una pantalla. Incluye molinillo y sistema de leche automático.",
       "category": "Electrodomésticos",
       "image": "https://m.media-amazon.com/images/I/71zWmCnDvBL.AC_SL1500.jpg",
-      "stock": 18
+      "stock": 18,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 56,
@@ -502,7 +612,9 @@
       "description": "Parlante inteligente de Apple con excelente sonido 360°. Controla tu casa con Siri y mide la temperatura ambiente.",
       "category": "Smart Home",
       "image": "https://media.falabella.com/falabellaPE/127786415_01/w=800,h=800,fit=pad",
-      "stock": 33
+      "stock": 33,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 57,
@@ -511,7 +623,9 @@
       "description": "Pantalla inteligente de 10 pulgadas con el Asistente de Google. Sirve para videollamadas, ver videos y controlar tu hogar.",
       "category": "Smart Home",
       "image": "https://http2.mlstatic.com/D_NQ_NP_602423-MPE90642004008_082025-O-google-nest-hub-max.webp",
-      "stock": 29
+      "stock": 29,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 58,
@@ -520,7 +634,9 @@
       "description": "Kit para empezar tu hogar inteligente. 3 bombillas que cambian de color, control por app y funciona con todos los asistentes de voz.",
       "category": "Smart Home",
       "image": "https://http2.mlstatic.com/D_NQ_NP_2X_738796-MLA99462638026_112025-T.webp",
-      "stock": 42
+      "stock": 42,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 59,
@@ -529,7 +645,9 @@
       "description": "Timbre de puerta inteligente con cámara de alta calidad. Te permite ver quién toca y hablar con la persona desde tu celular.",
       "category": "Smart Home",
       "image": "https://m.media-amazon.com/images/I/61WuMLLpaML.SL1000.jpg",
-      "stock": 31
+      "stock": 31,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 60,
@@ -538,7 +656,9 @@
       "description": "Termostato inteligente para controlar la temperatura de tu casa con la voz o el celular, ahorrando energía.",
       "category": "Smart Home",
       "image": "https://m.media-amazon.com/images/I/31yApbM18QL.AC_SL1000.jpg",
-      "stock": 26
+      "stock": 26,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 61,
@@ -547,7 +667,9 @@
       "description": "Batería externa portátil de carga ultra rápida (140W). Gran capacidad (24,000mAh) para cargar varias veces tu laptop y celular.",
       "category": "Accesorios",
       "image": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/3278/PMP20000427957/full_image-1.jpeg",
-      "stock": 50
+      "stock": 50,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 62,
@@ -556,7 +678,9 @@
       "description": "Cargador inalámbrico 3 en 1 para todos tus dispositivos Apple (iPhone, Watch, AirPods). Usa tecnología MagSafe.",
       "category": "Accesorios",
       "image": "https://pe.tiendasishop.com/cdn/shop/files/WIZ023ttWH_1.webp?v=1726593852",
-      "stock": 38
+      "stock": 38,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 63,
@@ -565,7 +689,9 @@
       "description": "Disco duro externo SSD de 2TB súper resistente. Es muy rápido y a prueba de golpes, agua y polvo.",
       "category": "Accesorios",
       "image": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/1736/PMP20000552952/full_image-1.jpeg",
-      "stock": 45
+      "stock": 45,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 64,
@@ -574,7 +700,9 @@
       "description": "Cámara web Full HD de gran calidad para videollamadas y streaming. Con enfoque automático y micrófono estéreo.",
       "category": "Accesorios",
       "image": "https://m.media-amazon.com/images/I/71YN85pLGcL.AC_SL1500.jpg",
-      "stock": 52
+      "stock": 52,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 65,
@@ -583,7 +711,9 @@
       "description": "Micrófono profesional USB de calidad de estudio. Perfecto para podcasting, streaming y grabar voz con gran claridad.",
       "category": "Accesorios",
       "image": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/3975/PMP20000077215/imagen3-1.jpeg",
-      "stock": 35
+      "stock": 35,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 66,
@@ -592,7 +722,9 @@
       "description": "Estación de conexión (Dock) para expandir tu laptop. Agrega múltiples puertos USB y salidas de video de alta resolución.",
       "category": "Accesorios",
       "image": "https://m.media-amazon.com/images/I/41Q0ZRfbbkL.SL1000.jpg",
-      "stock": 28
+      "stock": 28,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 67,
@@ -601,7 +733,9 @@
       "description": "Base de aluminio para tu laptop. La eleva para mejor ergonomía, disipación de calor y tiene espacio para organizar cables.",
       "category": "Accesorios",
       "image": "https://m.media-amazon.com/images/I/81PwldbKmPL.AC_UF894,1000_QL80.jpg",
-      "stock": 40
+      "stock": 40,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 68,
@@ -610,7 +744,9 @@
       "description": "Funda protectora de máxima resistencia (grado militar) para Samsung S24 Ultra. Incluye un soporte trasero (kickstand).",
       "category": "Accesorios",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTegvbaCIaeJUzqIYKx60t1klHb23e71aRt9A&s",
-      "stock": 60
+      "stock": 60,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 69,
@@ -619,7 +755,9 @@
       "description": "Batería externa MagSafe para iPhone. Se adhiere magnéticamente y ofrece carga inalámbrica extra.",
       "category": "Accesorios",
       "image": "https://promart.vteximg.com.br/arquivos/ids/8513128/imageUrl_1.jpg?v=638705342664630000",
-      "stock": 43
+      "stock": 43,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 70,
@@ -628,7 +766,9 @@
       "description": "Tarjeta de memoria SD de 1TB ultra rápida y muy resistente. Ideal para cámaras profesionales y video 4K/8K.",
       "category": "Accesorios",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7hwXSbo39uO80Dy_TEbCkc-k55Ud1GMOESA&s",
-      "stock": 55
+      "stock": 55,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 71,
@@ -637,7 +777,9 @@
       "description": "Celular de alta gama con pantalla súper fluida (120Hz). Carga extremadamente rápida y una excelente cámara Hasselblad de 50MP.",
       "category": "Smartphones",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpqHT_DJrCWPzbMPbIP9uMXHH4GmxqPLxsEA&s",
-      "stock": 32
+      "stock": 32,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 72,
@@ -646,7 +788,9 @@
       "description": "El celular de Google. Tiene la mejor inteligencia artificial, una cámara increíble con zoom óptico 5x y recibirá actualizaciones de seguridad por 7 años.",
       "category": "Smartphones",
       "image": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/3325/PMP20000026934/full_image-1.jpeg",
-      "stock": 27
+      "stock": 27,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 73,
@@ -655,7 +799,9 @@
       "description": "Celular con un diseño único y luces traseras (Glyph Interface). Pantalla OLED rápida y procesador potente.",
       "category": "Smartphones",
       "image": "https://st.gsmarena.com/imgroot/news/23/07/nothing-phone-2-design-confirmed-glyph-demoed/-660/gsmarena_000.jpg",
-      "stock": 29
+      "stock": 29,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 74,
@@ -664,7 +810,9 @@
       "description": "El celular perfecto para jugar. Pantalla AMOLED ultra rápida (165Hz) y gatillos integrados para un control total.",
       "category": "Smartphones",
       "image": "https://m.media-amazon.com/images/I/610sPrvVhyL.AC_SL1500.jpg",
-      "stock": 15
+      "stock": 15,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 75,
@@ -673,7 +821,9 @@
       "description": "El celular que se abre como una tablet. Pantalla interior gigante de 7.6\" para trabajar o ver videos.",
       "category": "Smartphones",
       "image": "https://media.falabella.com/falabellaPE/142715467_01/w=800,h=800,fit=pad",
-      "stock": 18
+      "stock": 18,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 76,
@@ -682,7 +832,9 @@
       "description": "Laptop gamer extrema con pantalla de 17 pulgadas. Máxima potencia gráfica (RTX 4090) y sistema de enfriamiento avanzado.",
       "category": "Laptops",
       "image": "https://storage-asset.msi.com/global/picture/image/feature/nb/GE/Raider-GE78-HX-13V/kv-pd.png",
-      "stock": 12
+      "stock": 12,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 77,
@@ -691,7 +843,9 @@
       "description": "Laptop gamer premium de aluminio. Potente tarjeta RTX 4090 y una pantalla de 16\" que puedes usar en 4K o en modo ultra rápido para juegos.",
       "category": "Laptops",
       "image": "https://m.media-amazon.com/images/I/81sX1nwD+fL.AC_SL1500.jpg",
-      "stock": 10
+      "stock": 10,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 78,
@@ -700,7 +854,9 @@
       "description": "Laptop gamer ideal para empezar. Procesador i5 y tarjeta gráfica RTX 3050, perfecta para jugar a 1080p con buen rendimiento.",
       "category": "Laptops",
       "image": "https://hiraoka.com.pe/media/catalog/product/a/1/a14ldla_2imagenprincipalsintexto_b_1_.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=560&width=700&canvas=700:560",
-      "stock": 20
+      "stock": 20,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 79,
@@ -709,7 +865,9 @@
       "description": "Laptop increíblemente ligera con pantalla OLED 4K de 16 pulgadas. Poderosa y fácil de llevar a todas partes.",
       "category": "Laptops",
       "image": "https://m.media-amazon.com/images/I/51p9viAwACL.AC_SL1280.jpg",
-      "stock": 25
+      "stock": 25,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 80,
@@ -718,7 +876,9 @@
       "description": "Laptop versátil 3-en-1. Se transforma en tablet y atril. Pantalla táctil rápida y gráficos potentes para crear y trabajar.",
       "category": "Laptops",
       "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Surface-Laptop-Studio-2-full-bleed-Innovate--Captivate-Accelerate?scl=1",
-      "stock": 18
+      "stock": 18,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 81,
@@ -727,7 +887,9 @@
       "description": "Televisor 4K Mini-LED de 85 pulgadas. Imagen gigante con brillo extremo y negros muy profundos. Ideal para salas grandes.",
       "category": "Televisores",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS35UBT6-OV-lLss3043XRTT9ZEsSCFmVwG8w&s",
-      "stock": 26
+      "stock": 26,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 82,
@@ -736,7 +898,9 @@
       "description": "Televisor 4K Mini-LED de 75 pulgadas. Muy brillante, colores vivos y excelente para videojuegos por su alta velocidad (144Hz).",
       "category": "Televisores",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFqOA_PoQIdx5MNGVzVgB9eudhf2jUS2SGNQ&s",
-      "stock": 15
+      "stock": 15,
+      "rating": 4.6,
+      "reviewCount": 289
     },
     {
       "id": 83,
@@ -745,7 +909,9 @@
       "description": "Televisor OLED premium. El mejor sonido integrado con Dolby Atmos. Imágenes perfectas y calibración de cine.",
       "category": "Televisores",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yaO-w1ynAh8DcwljfY7mGccbVL0vTwAWrQ&s",
-      "stock": 12
+      "stock": 12,
+      "rating": 4.6,
+      "reviewCount": 289
     }
   ]
 }
